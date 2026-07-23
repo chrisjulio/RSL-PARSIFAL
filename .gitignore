@@ -1,0 +1,32 @@
+# === Sistema operacional (Windows) ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# === Editores / IDEs ===
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*~
+
+# === Arquivos temporários ===
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+
+# === Office (arquivos temporários de bloqueio) ===
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# === Saídas / build ===
+/dist/
+/build/
+/out/
+/temp/
