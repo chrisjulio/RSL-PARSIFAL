@@ -1,0 +1,7 @@
+# Artefatos gerados em tempo de execucao pelos hooks (nao versionar)
+session-log.md
+.overload-*
+.status-injected-*
+
+# Configuracao local de permissoes (especifica da maquina)
+settings.local.json
